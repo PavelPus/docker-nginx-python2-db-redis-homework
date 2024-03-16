@@ -5,5 +5,5 @@ cd docker-nginx-python2-db-redis-homework
 docker compose up -d
 
 Зайдите на:
-http://localhost:8081
+http://'ВАШ IP':8081
 
